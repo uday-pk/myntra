@@ -1,0 +1,15 @@
+<!/div> <!--col-md-3 Ends-->
+<!admele sariyagi nodkolli>
+<!205 line enda start madad
+<div class="col-md-9"><!--col-md-9 Starts-->
+<div class="box"><!--box Starts-->
+ <? 
+    if(isset($_GET['my_orders'])){include("my_orders.php");
+                                 }
+    ?>
+    
+    
+    </div><!--box Ends-->
+
+
+</div><!--col-md-9 Ends-->

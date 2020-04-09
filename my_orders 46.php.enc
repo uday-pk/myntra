@@ -1,0 +1,72 @@
+
+
+
+
+<center><!--center Starts-->
+    <h1>My Orders</h1>
+    <p class="text-muted">
+    If you have any questions,please feel free to<a href="__/contact.php">Contact us,</a> 
+    Our customer service center is working for you 24/7.
+    </p>
+    </center><!--center Ends-->
+    <hr>
+    <div class="table-responsive"><!--table-responsive Starts-->
+    <table class="table table-bordered table-hover"><!--table table-bordered table-hover Starts-->
+<thead><!--thead Starts-->
+        <tr>
+            <th>O N:</th>
+            <th>Due Ammount:</th>
+<th>Invoice No:</th>
+    <th>Qty:<th>
+    <th>Size:</th>
+<th>Ordered Date:</th>
+            <th>Paid/Unpaid:</th>
+    <th>Status:</th>
+            <tbody><!--tbody Starts-->
+            <tr><!--tr Starts-->
+                <td>#1</td>
+                <td>$ 80</td>
+                <td>6669635</td>
+                <td>2</td>
+                <td>Small</td>
+                <td>2018-10-15</td>
+                <td>unpaid</td>
+                         <td><a href="confirm.php" target="_blank" class="btn btn-primary btn-sm">confirm If paid</a></td>
+
+                
+                
+                </tr><!--tr Ends-->
+                 <tr><!--tr Starts-->
+                <td>#1</td>
+                <td>$ 80</td>
+                <td>6669635</td>
+                <td>2</td>
+                <td>Small</td>
+                <td>2018-10-15</td>
+                <td>unpaid</td>
+                         <td><a href="confirm.php" target="_blank" class="btn btn-primary btn-sm">confirm If paid</a></td>
+
+                
+                
+                </tr><!--tr Ends--> <tr><!--tr Starts-->
+                <td>#1</td>
+                <td>$ 80</td>
+                <td>6669635</td>
+                <td>2</td>
+                <td>Small</td>
+                <td>2018-10-15</td>
+                <td>unpaid</td>
+                         <td><a href="confirm.php" target="_blank" class="btn btn-primary btn-sm">confirm If paid</a></td>
+
+                
+                
+                </tr><!--tr Ends-->
+            </tbody><!--tbody Ends-->            
+    </tr> 
+        
+        </thead><!--thead Ends-->
+
+
+
+</table><!--table table-bordered table-hover Ends-->
+</div><!--table-responsive Ends-->
